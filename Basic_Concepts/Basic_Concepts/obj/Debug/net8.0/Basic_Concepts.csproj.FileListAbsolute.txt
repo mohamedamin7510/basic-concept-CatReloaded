@@ -1,0 +1,14 @@
+D:\data-base\Basic_Concepts\Basic_Concepts\bin\Debug\net8.0\Basic_Concepts.exe
+D:\data-base\Basic_Concepts\Basic_Concepts\bin\Debug\net8.0\Basic_Concepts.deps.json
+D:\data-base\Basic_Concepts\Basic_Concepts\bin\Debug\net8.0\Basic_Concepts.runtimeconfig.json
+D:\data-base\Basic_Concepts\Basic_Concepts\bin\Debug\net8.0\Basic_Concepts.dll
+D:\data-base\Basic_Concepts\Basic_Concepts\bin\Debug\net8.0\Basic_Concepts.pdb
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.AssemblyInfoInputs.cache
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.AssemblyInfo.cs
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.csproj.CoreCompileInputs.cache
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.dll
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\refint\Basic_Concepts.dll
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.pdb
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\Basic_Concepts.genruntimeconfig.cache
+D:\data-base\Basic_Concepts\Basic_Concepts\obj\Debug\net8.0\ref\Basic_Concepts.dll
